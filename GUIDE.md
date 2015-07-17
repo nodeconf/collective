@@ -1,10 +1,12 @@
-# How to run a ONE-SHOT
+# How to run an Event
+
+## Single Day Conference
 
 **ANYONE** can run a simple single day conference. We've collected documentation and best practices that make it even easier which you are free to adopt, with a few ground rules.
 
-* ONE-SHOT is meant to be *accessible* in cost and in content. Content should be good for new users and ticket cost should remain relatively cheap so that the local community can afford to attend. We have a lot of advice in the documentation here that can help you keep your costs low so that the ticket price can remain accessible.
-* ONE-SHOT conferences celebrate a **city** and its local community. For instance, there is a ONE-SHOT London, but not a ONE-SHOT England, ONE-SHOT UK, or ONE-SHOT Europe.
-* Every ONE-SHOT must adopt a **Code of Conduct** and commit to enforcing it. The default template includes one that you can modify with your contact information. 
+* Keep your event *accessible* in cost and in content. Content should be good for new users and ticket cost should remain relatively cheap so that the local community can afford to attend. We have a lot of advice in the documentation here that can help you keep your costs low so that the ticket price can remain accessible. Without accessibility you limit your potential audience which will make it harder to sell out your event.
+* Celebrate a **city** and its local community. For instance, there is a NodeConf London, but not a NodeConf England, or NodeConf UK. When you're trying to bring in your local community it's important to be proud of where you are. This is also attractive to people travelling there because they get to experience the locality -- that's why we love to travel :)
+* Every event must adopt a **Code of Conduct** and commit to enforcing it. The default templates include one that you can modify with your contact information. 
 
 # Getting Started
 
